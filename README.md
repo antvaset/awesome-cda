@@ -17,6 +17,7 @@ A collection of awesome links, tutorials, and resources on the Clinical Document
 ## CDA
 
 - [CDA specification (online version)](https://www.hl7.org/documentcenter/private/standards/v3/edition_web/infrastructure/cda/cda.html)
+- [CDA Validator](https://validator-legacy.lantanagroup.com/validator/)
 
 ## C-CDA
 
