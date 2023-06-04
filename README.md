@@ -13,6 +13,7 @@ A collection of awesome links, tutorials, and resources on the Clinical Document
 - [HL7v3 specification](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=186)
 - [HL7v3 specification (online version)](https://www.hl7.org/documentcenter/private/standards/v3/edition_web/welcome/environment/index.html)
 - [Reference Information Model](https://www.hl7.org/documentcenter/private/standards/v3/edition_web/infrastructure/rim/rim.html)
+- [HL7 RIM Explorer](https://vico.org/HL7_RIM/index.html)
 
 ## CDA
 
